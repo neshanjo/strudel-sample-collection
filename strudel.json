@@ -1,0 +1,12 @@
+{
+    "_base": "https://raw.githubusercontent.com/neshanjo/moonalley-samples/main/",
+    "bea": [
+        "bea/intro.wav"
+    ],
+    "ywk": [
+        "ywk/hat_fourbars.wav",
+        "ywk/hat_onebar.wav",
+        "ywk/ride_onebar.wav",
+        "ywk/ride_twobars.wav"
+    ]
+}

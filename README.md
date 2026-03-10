@@ -18,6 +18,7 @@ Overview of the samples; il = instrumental loop, vl = vocal loop, dl = drum loop
 | `il_bea` | jazzy intro | 1 | 83 | C major | CC BY NC | [website](https://moonalley.net) |
 | `il_breathless` | dreamy piano chords | 1 | 129 | Eb major | CC 0 | [fma](https://freemusicarchive.org/music/sapio/sapio/breathless/) |
 | `dl_devil` | backbeat, 2 bars, noisy | 1 | 160 | | CC BY | [fma](https://freemusicarchive.org/music/Pierce_Murphy/this-is-pretty-good-content-for-such-a-bad-algorithm/devil-in-a-falling-sky/) |
+| `vinyl` | some vinyl noise from the end of the track | 1 | | | CC BY | [fma](https://freemusicarchive.org/music/Pierce_Murphy/this-is-pretty-good-content-for-such-a-bad-algorithm/devil-in-a-falling-sky/) |
 | `ds_devil_*` | noisy funk drums, bd, sd, hh, oh | 1-3 | | | CC BY | [fma](https://freemusicarchive.org/music/Pierce_Murphy/this-is-pretty-good-content-for-such-a-bad-algorithm/devil-in-a-falling-sky/) |
 | `il_feather` | beautiful double bass melodie with guitar | 2 | 124 | C minor | CC BY NC | [fma](https://freemusicarchive.org/music/eric-van-der-westen/the-crown-lobster-trilogy-selection/a-feather/) |
 | `il_home` | guitar picking | 1 | 110 | E minor | CC BY SA | [fma](https://freemusicarchive.org/music/Cambo/Home_1081/Cambo_-_Home_-_05_Welcome_Home/) |

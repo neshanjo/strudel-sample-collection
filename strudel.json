@@ -1,9 +1,117 @@
 {
-    "_base": "https://raw.githubusercontent.com/neshanjo/moonalley-samples/main/",
-    "bea": [
-        "bea/intro.wav"
+    "_base": "https://raw.githubusercontent.com/neshanjo/strudel-sample-collection/main/",
+    "vl_9to5": [
+        "9to5/loop.wav"
     ],
-    "ywk": [
+    "il_bea": [
+        "bea/loop.wav"
+    ],
+    "il_breathless": [
+        "breathless/loop.wav"
+    ],
+    "dl_devil": [
+        "devil/loop.wav"
+    ],
+    "vinyl": [
+        "devil/vinyl.wav"
+    ],
+    "ds_devil_bd": [
+        "devil/bd1.wav",
+        "devil/bd2.wav"
+    ],
+    "ds_devil_hh": [
+        "devil/hh.wav"
+    ],
+    "ds_devil_oh": [
+        "devil/oh.wav"
+    ],
+    "ds_devil_sd": [
+        "devil/sd1.wav",
+        "devil/sd2.wav",
+        "devil/sd3.wav"
+    ],
+    "il_feather": [
+        "feather/loop1.wav",
+        "feather/loop2.wav"
+    ],
+    "il_home": [
+        "home/loop.wav"
+    ],
+    "il_mbox": [
+        "mbox/loop.wav"
+    ],
+    "il_nights": [
+        "nights/loop.wav",
+        "nights/oneshot.wav"
+    ],
+    "il_nomads": [
+        "nomads/loop1.wav",
+        "nomads/loop2.wav",
+        "nomads/loop3.wav",
+        "nomads/loop4.wav"
+    ],
+    "ds_romance_bd": [
+        "romance/bd.wav"
+    ],
+    "ds_romance_sd": [
+        "romance/sd.wav"
+    ],
+    "os_romance": [
+        "romance/oneshot1.wav",
+        "romance/oneshot2.wav"
+    ],
+    "il_romantic": [
+        "romantic/loop.wav"
+    ],
+    "il_solitude": [
+        "solitude/solitude.wav",
+        "solitude/solitude_var.wav"
+    ],
+    "il_stayhere": [
+        "stayhere/loop.wav"
+    ],
+    "os_stayon": [
+        "stayon/oneshot1.wav",
+        "stayon/oneshot2.wav"
+    ],
+    "os_steel": [
+        "steel/steel1a.wav",
+        "steel/steel2e.wav",
+        "steel/steel3d.wav"
+    ],
+    "os_steelchord": [
+        "steel/steelchord1_am.wav",
+        "steel/steelchord2_em.wav",
+        "steel/steelchord3_dm.wav"
+    ],
+    "ds_step_bd": [
+        "step/bd.wav"
+    ],
+    "ds_step_hh": [
+        "step/hh1.wav",
+        "step/hh2.wav",
+        "step/hh3.wav"
+    ],
+    "ds_step_rs": [
+        "step/rs.wav"
+    ],
+    "il_wichtig": [
+        "wichtig/loop.wav"
+    ],
+    "os_wichtig": [
+        "wichtig/oneshot1.wav",
+        "wichtig/oneshot2.wav",
+        "wichtig/oneshot3.wav",
+        "wichtig/oneshot4.wav",
+        "wichtig/oneshot5.wav"
+    ],
+    "os_work": [
+        "work/oneshot1.wav",
+        "work/oneshot2.wav",
+        "work/oneshot3.wav",
+        "work/oneshot4.wav"
+    ],
+    "dl_ywk": [
         "ywk/hat_fourbars.wav",
         "ywk/hat_onebar.wav",
         "ywk/ride_onebar.wav",

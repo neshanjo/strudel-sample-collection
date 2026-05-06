@@ -116,5 +116,18 @@
         "ywk/hat_onebar.wav",
         "ywk/ride_onebar.wav",
         "ywk/ride_twobars.wav"
+    ],
+    "vl_bmf_split": [
+        "branche-merge-flow/voc01.wav",
+        "branche-merge-flow/voc02.wav",
+        "branche-merge-flow/voc03.wav",
+        "branche-merge-flow/voc04.wav",
+        "branche-merge-flow/voc05.wav"
+    ],
+    "vl_bmf": [
+        "branche-merge-flow/voc.wav",
+        "branche-merge-flow/voc_pickup.wav",
+        "branche-merge-flow/voc_main.wav",
+        "branche-merge-flow/shout.wav"
     ]
 }

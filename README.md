@@ -16,6 +16,8 @@ Overview of the samples; il = instrumental loop, vl = vocal loop, dl = drum loop
 | ------ | ------------- | --- | ----- |----- | --------- | -------- |
 | `vl_9to5` | female vocal loop | 1 | 131 | G minor | CC 0 | [fma](https://freemusicarchive.org/music/superare/i-1/9-to-5/) |
 | `il_bea` | jazzy intro | 1 | 83 | C major | CC BY NC | [website](https://moonalley.net) |
+| `vl_bmf` | vocals for song "branch merge flow" | 4 | 123 | a minor | CC BY NC | generated |
+| `vl_bmf_parts` | vocal parts for song "branch merge flow" | 5 | 123 | a minor | CC BY NC | generated |
 | `il_breathless` | dreamy piano chords | 1 | 129 | Eb major | CC 0 | [fma](https://freemusicarchive.org/music/sapio/sapio/breathless/) |
 | `dl_devil` | backbeat, 2 bars, noisy | 1 | 160 | | CC BY | [fma](https://freemusicarchive.org/music/Pierce_Murphy/this-is-pretty-good-content-for-such-a-bad-algorithm/devil-in-a-falling-sky/) |
 | `vinyl` | some vinyl noise from the end of the track | 1 | | | CC BY | [fma](https://freemusicarchive.org/music/Pierce_Murphy/this-is-pretty-good-content-for-such-a-bad-algorithm/devil-in-a-falling-sky/) |

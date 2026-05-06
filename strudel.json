@@ -118,16 +118,16 @@
         "ywk/ride_twobars.wav"
     ],
     "vl_bmf_split": [
-        "branche-merge-flow/voc01.wav",
-        "branche-merge-flow/voc02.wav",
-        "branche-merge-flow/voc03.wav",
-        "branche-merge-flow/voc04.wav",
-        "branche-merge-flow/voc05.wav"
+        "branch-merge-flow/voc01.wav",
+        "branch-merge-flow/voc02.wav",
+        "branch-merge-flow/voc03.wav",
+        "branch-merge-flow/voc04.wav",
+        "branch-merge-flow/voc05.wav"
     ],
     "vl_bmf": [
-        "branche-merge-flow/voc.wav",
-        "branche-merge-flow/voc_pickup.wav",
-        "branche-merge-flow/voc_main.wav",
-        "branche-merge-flow/shout.wav"
+        "branch-merge-flow/voc.wav",
+        "branch-merge-flow/voc_pickup.wav",
+        "branch-merge-flow/voc_main.wav",
+        "branch-merge-flow/shout.wav"
     ]
 }
